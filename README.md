@@ -39,7 +39,7 @@ The Initvessel scripts provide the basic generation for the vcpkg dependency ins
 6. Link the required directories.
 
 ## Issues
-- While not critical: Ideally the directory of the vcpkg_installed folder should be inside of the .vessel environment (😭).
+- While not critical: Ideally the directory of the vcpkg_installed folder should be inside of the .vessel environment.
 
 ## Future Ideas
 - Need to work on a cleaner integration and setup.
