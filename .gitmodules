@@ -1,0 +1,3 @@
+[submodule ".vessel/externals/vcpkg"]
+	path = .vessel/externals/vcpkg
+	url = https://github.com/microsoft/vcpkg.git
